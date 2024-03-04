@@ -8,8 +8,8 @@ A registration system to practice my skills in procedural php, it is possible to
 <h2>How it works?</h2>
 
 <h3>Entering data into the system</h3>
-<img src="jamilly_1.png">
-<img src="jamilly_2.png">
+<img src="imgs/jamilly_1.png">
+<img src="imgs/jamilly_2.png">
 <h3>Deleting this data from the system</h3>
-<img src="jamilly_3.png">
-<img src="jamilly_4.png">
+<img src="imgs/jamilly_3.png">
+<img src="imgs/jamilly_4.png">
