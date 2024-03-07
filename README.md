@@ -1,5 +1,5 @@
 <h2>Sistema de cadastro</h2>
-A simple registration system with PHP to practice my skills
+A registration system with PHP to practice my skills
 
 <h2>Description</h2>
 
